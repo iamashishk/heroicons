@@ -11,7 +11,7 @@ If you want to render Heroicons in your Laravel Blade views, use [Blade Heroicon
 ### Composer
 
 ```shell
-composer require roelmagdaleno/php-heroicons
+composer require iamashishk/heroicons
 ```
 
 ## Usage
