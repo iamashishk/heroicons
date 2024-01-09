@@ -118,6 +118,7 @@ class Icon {
 
 			$doc->setAttribute($attribute, $value);
 		}
+		$doc->setAttribute("stroke", "currentColor");
 
 		$icon_string = $svg->toXMLString(false);
 
